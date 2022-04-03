@@ -23,4 +23,13 @@
   justify-content: flex-end;
   gap: 30px;
 }
+li{
+  width: 90px;
+  text-align: center;
+}
+li:hover{
+  background-color: blue;
+  color: antiquewhite;
+  border-radius: 15px;
+}
 </style>
