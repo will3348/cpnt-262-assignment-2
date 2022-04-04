@@ -13,3 +13,12 @@ Style the site with your preferred css approach
 - installed tailwind css.
 - created ui component which is my navigation bar.
 - created layout components including my TheHero and TheCard.
+- created utility component which is ActionButton.
+### Problem
+- when I was deploying my page on netlify, the images not show up.
+- I searched online, tried couple different method. they all don't work. I just changed the image src to the link in github repo.
+### Attributes
+- engine image: https://s19529.pcdn.co/wp-content/uploads/2019/05/SMEFeature.png
+- suspension image:https://www.chevyhardcore.com/image/2018/07/suspension-upgrades-for-the-classic-chevy-c10-truck-2018-07-31_03-55-28_797490.jpg
+- exhaust image:https://i0.wp.com/blog.modbargains.com/wp-content/uploads/2014/06/paul-reitzin-bmw-f10-535i-avant-garde-m310-wheels-007.jpg
+- netlify problem article:https://answers.netlify.com/t/images-not-showing-on-first-load/8220/3
