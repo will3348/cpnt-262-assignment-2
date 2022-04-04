@@ -28,7 +28,7 @@ const cards = [
     title: "Engine" , 
     text:"Engine tuning is the adjustment or modification of the internal combustion engine or Engine Control Unit (ECU) to yield optimal performance and increase the engine's power output, economy, or durability" ,
     tags:["rachet","2people","sport"],
-    image:('../assets/images/engineimage.png'),
+    image:('https://github.com/will3348/cpnt-262-assignment-2/blob/main/assets/images/engineimage.png?raw=true'),
     id:1
   },
 
@@ -36,7 +36,7 @@ const cards = [
     title: "Exhaust" , 
     text:"An automotive exhaust system is a fantastic piece of engineering. Its primary purpose is to remove exhaust gases from a combustion engine while reducing the noise produced by the entire process." ,
     tags:["rachet","2people","sport"],
-    image:('../assets/images/exhaust.webp'),
+    image:('https://raw.githubusercontent.com/will3348/cpnt-262-assignment-2/main/assets/images/exhaust.webp'),
     id:2
 
   },
@@ -44,7 +44,7 @@ const cards = [
   {
     title: "Suspension" , 
     text:"Ample clearance height, better handling, easier towing and the opportunity to fit tyres with bigger tread than the stock market tyres your vehicle was fitted with at the factory" ,
-    image:('../assets/images/suspension.webp'),
+    image:('https://raw.githubusercontent.com/will3348/cpnt-262-assignment-2/main/assets/images/suspension.webp'),
     id:3
 
   },
