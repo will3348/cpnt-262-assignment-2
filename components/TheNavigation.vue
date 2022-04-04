@@ -20,8 +20,9 @@
 .navi-bar{
   display: flex;
   flex-direction: row;
-  justify-content: flex-end;
   gap: 30px;
+  margin-top: 25px;
+  padding: 0px;
 }
 li{
   width: 90px;
