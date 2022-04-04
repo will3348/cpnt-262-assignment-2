@@ -7,9 +7,7 @@
       <p id="description">
         <slot name = "description"></slot>
       </p>
-      <button class="bg-transparent hover:bg-blue-500 text-red-700 text-2xl font-bold hover:text-white py-2.5 px-6 m-9 border border-yellow-100 hover:border-transparent rounded">
-        <slot name = "CTA"></slot>
-      </button>
+      <ActionButton>Read More</ActionButton>
     </div>
   </div>
 </template>

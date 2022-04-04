@@ -11,7 +11,6 @@
         production of bespoke vehicles for discerning clientele that require
         more.
       </template>
-      <template v-slot:CTA id="cta">Read More </template>
     </TheHero>
   </div>
   <div class="card-section">
