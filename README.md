@@ -1,6 +1,6 @@
 # cpnt-262-assignment-2
 ### Will Tengyuan Li
-### git hub page:
+### github page:https://github.com/will3348/cpnt-262-assignment-2
 ### netlify: https://classy-basbousa-8149a8.netlify.app/
 ### Plan
 - Create a nuxt project
